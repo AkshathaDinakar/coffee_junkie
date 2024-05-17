@@ -1,1 +1,1 @@
-# coffee_junkie
+# Coffee-junkie
